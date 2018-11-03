@@ -1,5 +1,5 @@
 """
-WSGI config for SchoolOfSoftware project.
+WSGI config for CollegeWebsiteServer project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
